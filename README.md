@@ -23,9 +23,13 @@
 ###### 💻 [Tradingview.com](https://github.com/anasadiek/python/blob/main/tradingview)
 
 
-🗃️ Sql_Python Projects ( Python ) 
-###### 💻 [www.trustiu.com](https://github.com/anasadiek/python/blob/main/pyton%20sql%20connection)
-###### 💻 [Oddo.com](https://github.com/anasadiek/python/blob/main/oddo%20scrap)
+🗃️ Sql Projects ( Python ) 
+###### 🗃️ [Olympics_Analysis](https://github.com/anasadiek/olympics)
+###### 🗃️ [Chicago_Crime](https://github.com/anasadiek/chicago-crime-)
+###### 🗃️ [Aliens](https://github.com/anasadiek/aliens)
+
+
+
 
 
 
