@@ -11,6 +11,12 @@
 - 😄 Pronouns: He 
 - ⚡ Fun fact: Only Learn Can Give Your Fun In This World . 
 
+📊 Data Analysis Projects ( Python ) 
+### 📈 [Fordbike_Analysis](https://github.com/anasadiek/python/tree/main/FordBike_Anasadiek)
+### 📈 [Fuel_Data_Analysis](https://github.com/anasadiek/python/tree/main/Fuel_Data_Analysis)
+### 📈 [IMDB_Data_Analysis](https://github.com/anasadiek/python/tree/main/IMDB_Movies_Data)
+### 📈 [Gold_In Egypt](https://github.com/anasadiek/python/tree/main/gold%20in%20egypt)
+
 
 
 <!---
