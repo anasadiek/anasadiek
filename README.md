@@ -12,6 +12,7 @@
 - ⚡ Fun fact: Only Learn Can Give Your Fun In This World . 
 
 📈 Data Analysis Projects ( Python ) 
+###### 📈 [Adverse Reaction Analysis](https://github.com/anasadiek/python/tree/main/Adver_reaction)
 ###### 📈 [Fordbike_Analysis](https://github.com/anasadiek/python/tree/main/FordBike_Anasadiek)
 ###### 📈 [Fuel_Data_Analysis](https://github.com/anasadiek/python/tree/main/Fuel_Data_Analysis)
 ###### 📈 [IMDB_Data_Analysis](https://github.com/anasadiek/python/tree/main/IMDB_Movies_Data)
